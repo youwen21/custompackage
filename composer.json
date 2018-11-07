@@ -3,5 +3,10 @@
     "type": "zend-library",
     "require": {
         "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-paths": {
+            "your/custom/path/{$name}/": ["shama/ftp", "vendor/package"]
+        }
     }
 }
