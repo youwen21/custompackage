@@ -5,7 +5,7 @@
     },
     "extra": {
         "installer-paths": {
-            "your/custom/path/{$name}/": ["type:wordpress-plugin"]
+            "/d/WWW/libu2018/com/{$name}/": ["type:wordpress-plugin"]
         }
     }
 }
