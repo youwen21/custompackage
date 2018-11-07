@@ -1,0 +1,11 @@
+{
+    "name": "you/ftp",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-paths": {
+            "plug/{$name}/": ["shama/ftp"]
+        }
+    }
+}
