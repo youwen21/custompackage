@@ -1,6 +1,6 @@
 {
     "name": "you/ftp",
-    "type": "zend-extra",
+    "type": "zend-library",
     "require": {
         "composer/installers": "~1.0"
     }
