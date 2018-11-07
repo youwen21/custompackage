@@ -1,11 +1,7 @@
 {
     "name": "you/ftp",
+    "type": "zend-module",
     "require": {
         "composer/installers": "~1.0"
-    },
-    "extra": {
-        "installer-paths": {
-            "/d/WWW/libu2018/com/{$name}/": ["type:wordpress-plugin"]
-        }
     }
 }
