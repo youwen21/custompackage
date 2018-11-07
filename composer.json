@@ -5,7 +5,7 @@
     },
     "extra": {
         "installer-paths": {
-            "plug/{$name}/": ["shama/ftp"]
+            "./plug/{$name}/": ["shama/ftp", "vendor/xxx"]
         }
     }
 }
